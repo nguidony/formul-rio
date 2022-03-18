@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    font-weight: 400;
+
+    color:black;
+    font-family: 'Roboto',sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+    
+
+
+.title {
+    font-size: 37px;
+    margin-bottom: 22px;
+    color: midnightblue;
+
+}
+
+.label-field{
+    font-size: 16px;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.box{
+    display: flex;
+    flex-direction: column;
+}
+.date-field{
+font-size: 16px;
+text-align: center;
+justify-content: space-around;
+}
